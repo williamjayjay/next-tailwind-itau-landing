@@ -10,8 +10,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/next-tailwind-itau-landing">
   </a>
     
-   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/next-tailwind-itau-landing">
-
    <a href="https://github.com/williamjayjay/next-tailwind-itau-landing/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/next-tailwind-itau-landing?style=social">
   </a>
