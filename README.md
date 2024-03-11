@@ -1,19 +1,19 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/ignite-shop-reactweb">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/next-tailwind-itau-landing">
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/ignite-shop-reactweb" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/next-tailwind-itau-landing" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/ignite-shop-reactweb">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/next-tailwind-itau-landing">
   
   <a href="https://github.com/williamjayjay/Github-Blog/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/ignite-shop-reactweb">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/next-tailwind-itau-landing">
   </a>
     
-   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/ignite-shop-reactweb">
+   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/next-tailwind-itau-landing">
 
-   <a href="https://github.com/williamjayjay/ignite-shop-reactweb/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/ignite-shop-reactweb?style=social">
+   <a href="https://github.com/williamjayjay/next-tailwind-itau-landing/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/next-tailwind-itau-landing?style=social">
   </a>
 </p>
 
@@ -23,9 +23,7 @@
 
 
 <p align="center">
-  <a href="#page_with_curl-project">📃 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-author">👨‍💻 Author</a>&nbsp;&nbsp;&nbsp;
 </p>
 
